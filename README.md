@@ -7,3 +7,6 @@ Tkinter program to store and retrieve your passwords
 button. The password manager will provide the credential if it is available.
 </p>
 <h1>Sreenshots of the program</h1>
+![image](https://github.com/Taha0229/Password-Manager/assets/113607983/91f82a30-6768-4008-9e2c-c7ab7cb97ddf)
+![image](https://github.com/Taha0229/Password-Manager/assets/113607983/cc0ec9a4-9b0c-4e61-b551-b796991017af)
+![image](https://github.com/Taha0229/Password-Manager/assets/113607983/fc29c79c-2343-4cc8-a127-76e121da4449)
